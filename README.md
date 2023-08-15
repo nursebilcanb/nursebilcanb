@@ -6,8 +6,8 @@
 ## [![Github](https://img.shields.io/github/followers/nursebilcanb?label=Follow&style=social)](https://github.com/nursebilcanb)
 
 
-- 🌱 I’m currently learning C#
-- ✨ I am improving myself on projects related to web. I started to interest in back-end and front-end development by using ASP.NET Core and Angular.
+- 🔭 I’m currently working on Turksat as an Developer Intern.
+- ✨ I am improving myself on projects related to web. I am interested in back-end and front-end development.
 
 Contact with me via these platforms!
 
